@@ -35,15 +35,10 @@ Please read [CONTRIBUTING.md](https://github.com/YOUR_USERNAME/YOUR_REPO/blob/ma
 
 ## Authors
 
-- **Your Name** - *Initial work* - [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- **kythonlk** - *html-node.js-tailwind-css* - [kythonlk](https://github.com/kythonlk)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/YOUR_USERNAME/YOUR_REPO/blob/master/LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/kythonlk/html-node.js-tailwind-css/blob/master/LICENSE.md) file for details.
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
